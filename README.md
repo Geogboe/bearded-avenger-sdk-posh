@@ -44,7 +44,11 @@ Get-Command -Module PoshSTINGAR
 
 ## Roadmap
 
-WIP...
+- Add support for /GET Search and /GET Filter paths
+- Add support for remaining paths
+- Create a contribution guide
+- Create a build from source guide
+- Create PSGallery deployment and build process
 
 ## Build From Source
 
