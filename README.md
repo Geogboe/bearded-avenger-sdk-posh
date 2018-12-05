@@ -1,40 +1,40 @@
-# PowerShell Module Template
+# PoshSTINGAR
 
 ## Table of Contents
-
-<!-- TOC -->
-
-- [PowerShell Module Template](#powershell-module-template)
+- [PoshSTINGAR](#poshstingar)
     - [Table of Contents](#table-of-contents)
-    - [Overview](#overview)
-    - [How to use this template](#how-to-use-this-template)
-    - [Resources](#resources)
-    - [Popular Examples](#popular-examples)
-    - [Tips and Tricks](#tips-and-tricks)
+    - [Project Overview](#project-overview)
+    - [How to Install](#how-to-install)
+    - [Usage](#usage)
+    - [Roadmap](#roadmap)
+    - [Build From Source](#build-from-source)
+    - [Contributing](#contributing)
+    - [Contact](#contact)
 
-<!-- /TOC -->
+## Project Overview
 
-## Overview
+WIP...
 
+## How to Install
 
-## How to use this template
+WIP...
 
-1. Delete any unncessary directories or script that won't be needed in your project
-2. Make sure you've at least taken a look at the Powershell best practices and style guide.
-3. Recommend installing Posh-Git, InvokeBuild, and BuildHelpers from PowershellGallery. Very useful.
-4. Either update all the necessary placeholder values or run .\ModuleHelpers\setup.ps1 with the name of your module to have this done for you.
+## Usage
 
-## Resources
+WIP...
 
-- Good place to start for organizing your code: https://poshcode.gitbooks.io/powershell-practice-and-style/
-- Greate collection of popular useful projects: https://github.com/janikvonrotz/awesome-powershell
+## Roadmap
 
-## Popular Examples
+WIP...
 
-- Usage of tests and src directory: https://github.com/dahlbyk/posh-git
-- Good usage of public and private directories, docs, and tests: https://github.com/PowerShell/Polaris
+## Build From Source
 
-## Tips and Tricks
+WIP...
 
-- Create a symbolic link from your source files your module path. Example: ni ..\DevModules\PatchMonkey-Windows -ItemType SymbolicLink -Target .\PatchMonkey-Windows\.
-This allows you to import the module from anywhere on your system without you having. The setup.ps1 script does this for you though.
+## Contributing
+
+WIP...
+
+## Contact
+
+George Bowen - george.bowen@duke.edu
