@@ -13,7 +13,8 @@
 
 ## Project Overview
 
-WIP...
+This module provides functions to interfaces with the STINGAR REST API.
+See https://github.com/csirtgadgets/bearded-avenger/wiki about the details of this project.
 
 ## How to Install
 
