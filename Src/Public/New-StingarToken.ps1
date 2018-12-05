@@ -26,13 +26,16 @@ function New-StingarToken {
 
         $ErrorActionPreference = "Stop"
 
+        $RestAPI = New-StingarRestAPI -Endpoint $Endpoint
+
     }
 
     process {
 
-        Invoke-RestMethod -
+
     }
 
     end {
+
     }
 }
