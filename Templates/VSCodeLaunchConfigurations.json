@@ -1,0 +1,11 @@
+// Pester
+{
+    "type": "PowerShell",
+    "request": "launch",
+    "name": "PowerShell Pester Tests",
+    "script": "Invoke-Pester",
+    "args": [
+        "-Script .\\${fileBasenameNoExtension}.Tests.ps1 -Test ${fileBasenameNoExtension}"
+    ],
+    "cwd": "${workspaceFolder}/tests"
+}

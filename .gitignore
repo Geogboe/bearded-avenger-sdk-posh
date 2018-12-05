@@ -1,0 +1,10 @@
+# VSCODE
+.vscode
+
+# Vagrant
+VagrantFile
+
+# Executables
+*.exe
+*.msi
+*.wim
