@@ -1,0 +1,5 @@
+# Configuration is local to development environment
+local_config.txt
+
+# endpooint
+https://public-cif-stingar.security.duke.edu/
