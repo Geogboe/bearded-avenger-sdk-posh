@@ -2,12 +2,14 @@ function New-StingarToken {
 
     <#
     .SYNOPSIS
-        Requests a Stingar token
+        Requests a STINGAR token
     .DESCRIPTION
         Requests a token and saves in memory for use during the current session
     .EXAMPLE
         PS C:\> New-StingarToken -Endpoint https://public-cif-stingar.security.duke.edu/
-        This command will request a token from https://public-cif-stingar.security.duke.edu for all future commands
+        This command will request an authentication token from https://public-cif-stingar.security.duke.edu.
+        If received, this token will be cached locally, until expired, for all further requests 
+        to this endpoint. 
     #>
 
     [CmdletBinding()]
@@ -21,8 +23,6 @@ function New-StingarToken {
     )
 
     begin {
-
-        Set-StrictMode -Version 2.0
 
         $ErrorActionPreference = "Stop"
 
