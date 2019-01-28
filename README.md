@@ -57,7 +57,3 @@ WIP...
 ## Contributing
 
 WIP...
-
-## Contact
-
-George Bowen - george.bowen@duke.edu
