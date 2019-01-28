@@ -8,7 +8,7 @@
     RootModule = 'PoshSTINGAR.psm1'
     ModuleVersion = '0.0.1'
     GUID = '7ca31b90-d478-49fa-80f3-1a802ea54c6d'
-    Author = 'geogboe'
+    Author = 'George Bowen'
     CompanyName = 'Duke University'
     Copyright = '(c) 2018 Duke University. All rights reserved.'
     Description = 'Provides function to interface with https://github.com/csirtgadgets/bearded-avenger/wiki'
