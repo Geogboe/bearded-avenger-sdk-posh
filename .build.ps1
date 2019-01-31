@@ -1,6 +1,5 @@
 #Requires -Module Pester, PSScriptAnalyzer, BuildHelpers, InvokeBuild, PlatyPS, posh-git
 
-
 param (
 
     [switch]$Force = $false
